@@ -1,37 +1,15 @@
-## Welcome to My Site
+---
+title: Home
+layout: default
+---
+In Iceland, lifting stones were categorized into the
 
-You can use the [editor on GitHub](https://github.com/evanllew/lis786/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- fullsterkur ("full strength") weighing 154 kg (341 pounds)
+- hálfsterkur ("half strength") at 100 kg (228.8 pounds)
+- hálfdrættingur ("weakling") at 54 kg (107.8 pounds) and
+- amlóði ("useless") at 23 kg (50.6 pounds)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+They were traditionally used to qualify men for work on fishing boats, with the hálfdrættingur being the minimum weight a man would have to lift onto a ledge at hip-height to qualify. One such set of stones can be found on the beach of Djúpalónssandur at the foot of Snæfellsjökull. One of the most famous Icelandic stones is the Husafell Stone which weighs 186 kg (410 lb).
 
-### Markdown
+Source: [Wikipedia] (https://en.wikipedia.org/wiki/Lifting_stone)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evanllew/lis786/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
