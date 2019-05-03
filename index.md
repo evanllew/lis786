@@ -1,5 +1,5 @@
 ---
-title: u
+title: Over Easy
 layout: default
 ---
 In Iceland, lifting stones were categorized into the
