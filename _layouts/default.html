@@ -24,18 +24,17 @@
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    <div style='position:relative; border:1px solid red; margin-top:100px;'> <!-- This is the containing element. Uses position:relative -->
-    <img src='egglogo.jpg' style='position:absolute; top:0; left:0;' width='' height='' alt='' /> <!-- Image will stick to the top left of the parent element -->
-</div>
-
-
     <header class="page-header" role="banner">
+
+      <div id="topleft">
+      <a href="https://evanllew.github.io/lis786/">Over Easy</a>
+      </div>
+
       <div id="topright">
       <a href="https://evanllew.github.io/lis786/login/" class="button">Login</a>
       <a href="https://evanllew.github.io/lis786/signup/" class="button">Signup</a>
       </div>
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+
       <h1 id="description"> Who said breakfast could only be eaten in the morning? </h1>
 
       <form action="myform.cgi">
