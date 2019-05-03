@@ -1,6 +1,6 @@
 ---
 title: About
 layout: default
-permalink: /lis786/about/
+permalink: /about/
 ---
 About
