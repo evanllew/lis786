@@ -1,6 +1,6 @@
 ---
 ---
-.page-header {
+.page-header-home {
   background-color: transparent;
   background-image: url("egg.jpg");
   background-repeat: no-repeat;
@@ -15,6 +15,7 @@ form {
 
 body {
   font-family: Comfortaa;
+  background-color:#D3D3D3;
 }
 
 #topleft {
@@ -52,4 +53,8 @@ a:hover {
 }
 a:active {
     color: #D3D3D3;
+}
+footer {
+  text-align: center;
+  font-size: 10px;
 }
