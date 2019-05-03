@@ -1,5 +1,5 @@
 ---
-title: Food near You!
+title: Food near You
 layout: default
 permalink: /food/
 ---
