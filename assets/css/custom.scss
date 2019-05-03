@@ -23,12 +23,20 @@ body {
   top: 20px;
   right: 16px;
   font-size: 16px;
-
+}
+.logintopright {
   border-radius: 25px;
-  border: 2px solid #73AD21;
+  border: 2px solid white;
   padding: 20px;
-  width: 200px;
-  height: 150px;
+  width: 50px;
+  height: 50px;
+}
+.logintopleft {
+  border-radius: 25px;
+  border: 2px solid white;
+  padding: 20px;
+  width: 50px;
+  height: 50px;
 }
 a:link {
     color: #D3D3D3;
